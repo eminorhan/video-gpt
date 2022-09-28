@@ -1,6 +1,6 @@
 # VideoGPT: Video Generation using VQ-VAE and Transformers
 
-This is my personal copy of the [VideoGPT](https://github.com/wilson1yan/VideoGPT) repo customized for my own purposes. WOrk in progress. 
+This is my personal copy of the [VideoGPT](https://github.com/wilson1yan/VideoGPT) repository customized for my own purposes. Work in progress. 
 
 [[Paper]](https://arxiv.org/abs/2104.10157)[[Website]](https://wilson1yan.github.io/videogpt/index.html)[[Colab]](https://colab.research.google.com/github/wilson1yan/VideoGPT/blob/master/notebooks/Using_VideoGPT.ipynb)
 Integrated to [Huggingface Spaces](https://huggingface.co/spaces) with [Gradio](https://github.com/gradio-app/gradio). See demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/akhaliq/VideoGPT)
